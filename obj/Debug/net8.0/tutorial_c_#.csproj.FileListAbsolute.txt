@@ -1,0 +1,14 @@
+/home/diego/Documents/Diego/projects/tutorial_c_#/bin/Debug/net8.0/tutorial_c_#
+/home/diego/Documents/Diego/projects/tutorial_c_#/bin/Debug/net8.0/tutorial_c_#.deps.json
+/home/diego/Documents/Diego/projects/tutorial_c_#/bin/Debug/net8.0/tutorial_c_#.runtimeconfig.json
+/home/diego/Documents/Diego/projects/tutorial_c_#/bin/Debug/net8.0/tutorial_c_#.dll
+/home/diego/Documents/Diego/projects/tutorial_c_#/bin/Debug/net8.0/tutorial_c_#.pdb
+/home/diego/Documents/Diego/projects/tutorial_c_#/obj/Debug/net8.0/tutorial_c_#.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Documents/Diego/projects/tutorial_c_#/obj/Debug/net8.0/tutorial_c_#.AssemblyInfoInputs.cache
+/home/diego/Documents/Diego/projects/tutorial_c_#/obj/Debug/net8.0/tutorial_c_#.AssemblyInfo.cs
+/home/diego/Documents/Diego/projects/tutorial_c_#/obj/Debug/net8.0/tutorial_c_#.csproj.CoreCompileInputs.cache
+/home/diego/Documents/Diego/projects/tutorial_c_#/obj/Debug/net8.0/tutorial_c_#.dll
+/home/diego/Documents/Diego/projects/tutorial_c_#/obj/Debug/net8.0/refint/tutorial_c_#.dll
+/home/diego/Documents/Diego/projects/tutorial_c_#/obj/Debug/net8.0/tutorial_c_#.pdb
+/home/diego/Documents/Diego/projects/tutorial_c_#/obj/Debug/net8.0/tutorial_c_#.genruntimeconfig.cache
+/home/diego/Documents/Diego/projects/tutorial_c_#/obj/Debug/net8.0/ref/tutorial_c_#.dll
